@@ -159,15 +159,7 @@ To see how to install helm, [click here](https://github.com/riddhigala09/install
      
    ![Screenshot from 2023-02-20 13-25-54](https://user-images.githubusercontent.com/122020679/220045959-6416875e-5ee2-4a48-bd23-83138585c60c.png)
    
-   
-**We have successfully completed this tutorial!**
 
-     
-     
-      
-      
+**To learn more helm commands, [click here](https://helm.sh/docs/helm/)**
 
-
-
-
-
+***We have successfully completed this tutorial!***
