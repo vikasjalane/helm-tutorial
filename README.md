@@ -159,6 +159,19 @@ To see how to install helm, [click here](https://github.com/riddhigala09/install
      
    ![Screenshot from 2023-02-20 13-25-54](https://user-images.githubusercontent.com/122020679/220045959-6416875e-5ee2-4a48-bd23-83138585c60c.png)
    
+   3. Stop Minikube Cluster
+   
+     > minikube stop
+     
+   ![Screenshot from 2023-02-20 13-40-38](https://user-images.githubusercontent.com/122020679/220048944-48cbbad6-0cc0-4915-8d92-8d1a21e0f2c7.png)
+     
+   4. Delete Minikube Cluster
+   
+     > minikube delete
+     
+   ![Screenshot from 2023-02-20 13-41-49](https://user-images.githubusercontent.com/122020679/220049182-e0df60ea-c7e2-42b3-b499-b2eec33c32f4.png)
+
+   
 
 **To learn more helm commands, [click here](https://helm.sh/docs/helm/)**
 
